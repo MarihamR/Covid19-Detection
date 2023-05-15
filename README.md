@@ -1,2 +1,2 @@
 # Covid19-Detection
-![Model Framework](images/model.png)
+![Model Framework](Images/model.png)
