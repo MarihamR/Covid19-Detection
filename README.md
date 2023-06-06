@@ -14,4 +14,13 @@ The constructed dataset facilitates the evaluation of models for two tasks: bina
 ## Model Framework
 ![Model Framework](Images/model.png)
 
+## Results
+| Model                | Binary-class Accuracy | Multi-class Accuracy |
+| -------------------- | --------------------- |--------------------- |
+| ResNet18             |        97.64%         |      85.71%          |
+| Mobilenet_v2         |        98.43%         |      82.88%          |
+| Shufflenet_v2        |        99.02%         |      85.04%          |
+| Shufflenet+Mobilenet |        99.80%         |      84.77%          |
+| Resnet18+Shufflenet  |        99.41%         |      88.01%          |
+
 
