@@ -1,6 +1,6 @@
 # Covid19-Detection
 
-* This is an implementation of a course project conducted in June 2020 for the postgraduate course EC736-Neural Networks Applications. The project resulted in a research paper, which can be found at: 
+* This is an implementation of a course project conducted in June 2020 for the postgraduate course EC736-Neural Networks Applications. The project resulted in a research paper, which can be found at: [COV-NET_COVID19_Detection_Using_Neural_Network.pdf](COV-NET_COVID19_Detection_Using_Neural_Network.pdf)
 * Code Implementation for binary classification (COVID-19 and pneumonia): [Covid_2Classes.ipynb](Covid_2Classes.ipynb)
 * Code Implementation for multi-class classification, (COVID-19, pneumonia, and normal): [Covid_3Classes.ipynb](Covid_3Classes.ipynb)
 * Additionally, A code implementation to the [kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) dataset is located at: [Pneumonia-KaggleDataset.ipynb](Pneumonia-KaggleDataset.ipynb)
